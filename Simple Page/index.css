@@ -1,0 +1,38 @@
+body {
+    font-style: italic;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+.introduction p {
+    text-align: center;
+    padding: 10px;
+}
+
+.hobbies {
+    float: left;
+    padding: 30px;
+}
+
+.hobbies li {
+    list-style:circle;
+    padding: 5px;
+}
+
+.interests {
+    float: right;
+    padding: 30px;
+}
+
+.interests a {
+    text-decoration: none;
+    color: black;
+}
+
+.interests a:hover {
+    font-size: 25px;
+    font-weight: bold;
+    color: darkblue;
+}
